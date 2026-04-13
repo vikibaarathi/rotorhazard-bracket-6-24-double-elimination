@@ -1,4 +1,5 @@
 {
+    "domain": "bracket_6_24_de",
     "name": "DE Bracket 6-up 24-pilot",
     "description": "Generates a 14-heat double elimination bracket for 24 pilots with 6 per heat, following MultiGP format. Includes class ranking.",
     "author": "Viki Baarathi",
@@ -8,9 +9,7 @@
     "license": "MIT",
     "license_uri": null,
     "documentation_uri": null,
-    "info_uri": null,
+    "category": ["Heat Generators", "Class Rankings"],
     "dependencies": [],
-    "zip_filename": null,
-    "update_uri": null,
-    "text_domain": null
+    "zip_filename": "bracket_6_24_de.zip"
 }
