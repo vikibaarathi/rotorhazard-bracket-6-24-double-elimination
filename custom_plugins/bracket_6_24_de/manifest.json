@@ -1,9 +1,9 @@
 {
-    "name": "New Plugin",
-    "description": "A new RotorHazard plugin",
-    "author": "Your Name",
+    "name": "DE Bracket 6-up 24-pilot",
+    "description": "Generates a 14-heat double elimination bracket for 24 pilots with 6 per heat, following MultiGP format. Includes class ranking.",
+    "author": "Viki Baarathi",
     "author_uri": null,
-    "version": "0.1.0",
+    "version": "1.0.0",
     "required_rhapi_version": "1.1",
     "license": "MIT",
     "license_uri": null,
